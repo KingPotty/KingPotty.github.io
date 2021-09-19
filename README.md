@@ -1,1 +1,1 @@
-# KingPotty.github.beans
+# KingPotty.github.io
