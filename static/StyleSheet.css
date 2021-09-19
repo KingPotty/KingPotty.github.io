@@ -1,0 +1,43 @@
+﻿body {
+    background: green;
+}
+
+ul {
+    background: black;
+    height: 100px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+li a {
+    height: 50px;
+    display: inline-block;
+
+    color: #aaa;
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 80px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-down: 20px;
+
+    transition: background 0s;
+}
+
+li a:hover {
+    background: white;
+    height: 100px;
+}
+
+
+.me {
+    border-radius: 50%;
+}
