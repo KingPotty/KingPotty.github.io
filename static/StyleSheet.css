@@ -43,3 +43,8 @@ li a {
 li a:hover {
     background: white;
 }
+
+.contact-menu {
+    position: absolute;
+    right:0px;
+}
