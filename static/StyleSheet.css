@@ -1,9 +1,13 @@
 ﻿body {
-    background: green;
+    background: #3AA63F;
+}
+
+p {
+    font-size: 20px;
 }
 
 ul {
-    background: black;
+    background: #000000;
     height: 100px;
     list-style-type: none;
     margin: 0;
@@ -27,7 +31,7 @@ li a {
     height: 25px;
     display: inline-block;
 
-    color: #aaa;
+    color: #AAAAAA;
     text-align: center;
     text-decoration: none;
 
@@ -41,7 +45,7 @@ li a {
 }
 
 li a:hover {
-    background: white;
+    background: #FFFFFF;
 }
 
 .contact-menu {
