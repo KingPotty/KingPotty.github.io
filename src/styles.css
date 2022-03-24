@@ -9,9 +9,9 @@ section {
 }
 
 .hero {
-    background-color: #1c1d25;
+    background-color: #234215;
     height: 100vh;
-    color: white;
+    color: #ffffff;
     font-size: 40px;
 }
 
@@ -67,14 +67,14 @@ p {
     width: 200px;
     height:55px;
     border-radius: 30px;
-    background-color: coral;
+    background-color: black;
     text-align: center;
     padding-top: 5px;
     margin-top: 20px;
 }
 
 .button:hover {
-    background-color: #ef744b;
+    background-color: white;
 }
 
 .button:active {
